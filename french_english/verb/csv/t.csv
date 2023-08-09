@@ -1,0 +1,50 @@
+tailor;tailleur - adapter;B2;5;ACTION;REGULAR
+take;prendre;A1;10;ACTION;IRREGULAR
+talk;parler;A1;10;ACTION;REGULAR
+tame;dompter - apprivoiser;B2;3;ACTION;REGULAR
+taste;gouter;A2;7;ACTION;REGULAR
+teach;enseigner;A2;8;ACTION;IRREGULAR
+tell;dire - raconter;A1;10;ACTION;IRREGULAR
+thank;remercier;A1;9;ACTION;REGULAR
+thicken;épaissir;C1;2;ACTION;REGULAR
+think;penser;A1;10;STATE;IRREGULAR
+threaten;menacer;B1;4;ACTION;REGULAR
+thrill;exciter - frissonner;B2;3;STATE;REGULAR
+throw;jeter;A2;7;ACTION;IRREGULAR
+thrust;pousser - forcer;C1;2;ACTION;IRREGULAR
+tickle;chatouiller;B1;3;ACTION;REGULAR
+toast;griller - trinquer;B2;4;ACTION;REGULAR
+top;surpasser - dominer;B2;4;ACTION;REGULAR
+toss;jeter - lancer;B1;4;ACTION;REGULAR
+totter;chanceler;C2;1;ACTION;REGULAR
+touch;toucher;A1;9;ACTION;REGULAR
+track;pister - suivre;B1;5;ACTION;REGULAR
+trade;échanger - commercer;A2;8;ACTION;REGULAR
+train;entrainer - former;A2;8;ACTION;REGULAR
+transcribe;transcrire;C1;2;ACTION;REGULAR
+transfer;transférer;B2;6;ACTION;REGULAR
+transform;transformer;B1;7;ACTION;REGULAR
+translate;traduire;A2;8;ACTION;REGULAR
+transmit;transmettre;B2;5;ACTION;REGULAR
+transport;transporter;A2;8;ACTION;REGULAR
+trap;piéger;B2;4;ACTION;REGULAR
+travel;voyager;A1;9;ACTION;REGULAR
+traverse;traverser;B2;5;ACTION;REGULAR
+tread;piétiner - fouler;C1;2;ACTION;IRREGULAR
+treat;traiter;A2;8;ACTION;REGULAR
+trick;tromper - duper;B2;4;ACTION;REGULAR
+trigger;déclencher;B2;5;ACTION;REGULAR
+trim;tailler - couper;B1;5;ACTION;REGULAR
+trivialize;banaliser;C1;2;ACTION;REGULAR
+trump;battre - surpasser;C1;3;ACTION;REGULAR
+truncate;tronquer;C2;1;ACTION;REGULAR
+trust;faire confiance;A2;8;STATE;REGULAR
+try;essayer;A1;10;ACTION;REGULAR
+tug;tirer;B1;5;ACTION;REGULAR
+tumble;tomber;B1;5;ACTION;REGULAR
+tune;accorder - régler;B2;4;ACTION;REGULAR
+turn;tourner;A1;10;ACTION;REGULAR
+tutor;donner des cours;B2;5;ACTION;REGULAR
+tweet;tweeter;B2;6;ACTION;REGULAR
+twist;tordre;B1;5;ACTION;REGULAR
+type;taper;A1;9;ACTION;REGULAR

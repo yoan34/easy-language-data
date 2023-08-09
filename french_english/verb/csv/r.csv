@@ -1,0 +1,54 @@
+reach;atteindre - toucher;A2;5;ACTION;REGULAR
+read;lire;A1;10;ACTION;IRREGULAR
+realize;réaliser - comprendre;B1;7;STATE;REGULAR
+recall;rappeler - se souvenir;B2;6;ACTION;IRREGULAR
+receive;recevoir;A2;8;ACTION;IRREGULAR
+recognize;reconnaître;B1;7;STATE;IRREGULAR
+recommend;recommander;B1;6;ACTION;REGULAR
+record;enregistrer;A2;6;ACTION;REGULAR
+reduce;réduire;B2;6;ACTION;REGULAR
+refer;référer - se référer;B2;5;ACTION;IRREGULAR
+reflect;refléter - réfléchir;B2;6;STATE;REGULAR
+refuse;refuser;A2;7;ACTION;REGULAR
+regard;considérer - regarder;B2;5;STATE;REGULAR
+regret;regretter;B1;6;STATE;REGULAR
+relate;relater - se rapporter;B2;5;ACTION;REGULAR
+relax;se détendre;A2;7;ACTION;REGULAR
+release;libérer - relâcher;B2;5;ACTION;REGULAR
+rely;reposer - compter sur;B2;5;STATE;IRREGULAR
+remain;rester;B1;7;STATE;REGULAR
+remember;se souvenir;A2;8;STATE;IRREGULAR
+remind;rappeler;B1;7;ACTION;REGULAR
+remove;enlever - supprimer;A2;7;ACTION;REGULAR
+repair;réparer;A2;6;ACTION;REGULAR
+repeat;répéter;A1;8;ACTION;REGULAR
+replace;remplacer;B1;6;ACTION;REGULAR
+reply;répondre;A1;9;ACTION;IRREGULAR
+report;rapporter - signaler;B1;7;ACTION;REGULAR
+represent;représenter;B2;6;ACTION;REGULAR
+request;demander;A2;8;ACTION;REGULAR
+require;exiger - nécessiter;B2;6;ACTION;REGULAR
+rescue;sauver;B1;5;ACTION;REGULAR
+reserve;réserver;A2;7;ACTION;REGULAR
+reset;réinitialiser;B2;4;ACTION;REGULAR
+resist;résister;B1;6;ACTION;REGULAR
+resolve;résoudre;B2;6;ACTION;REGULAR
+respect;respecter;A2;7;STATE;REGULAR
+rest;reposer - se reposer;A1;8;STATE;REGULAR
+restrict;restreindre;B2;5;ACTION;REGULAR
+result;résulter;B2;6;STATE;REGULAR
+retire;prendre sa retraite;B2;5;ACTION;REGULAR
+return;retourner - revenir;A2;8;ACTION;IRREGULAR
+reveal;révéler;B2;6;ACTION;REGULAR
+review;réviser - examiner;B1;7;ACTION;REGULAR
+reward;récompenser;B1;5;ACTION;REGULAR
+rid;débarrasser;B2;4;ACTION;REGULAR
+ring;sonner - appeler;A2;7;ACTION;IRREGULAR
+rise;se lever - augmenter;B1;7;STATE;IRREGULAR
+risk;risquer;B2;6;ACTION;REGULAR
+roll;rouler;A2;6;ACTION;REGULAR
+rotate;tourner - pivoter;B2;5;ACTION;REGULAR
+rub;frotter;A2;5;ACTION;REGULAR
+rule;régner - diriger;B2;6;STATE;REGULAR
+run;courir;A1;10;ACTION;IRREGULAR
+rush;se précipiter;B1;6;ACTION;REGULAR

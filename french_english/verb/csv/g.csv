@@ -1,0 +1,56 @@
+gain;gagner-acquérir;A2;7;ACTION;REGULAR
+gallivant;flâner-vagabonder;B2;3;ACTION;REGULAR
+gallop;galoper;A2;4;ACTION;REGULAR
+gamble;jouer-parier;B1;5;ACTION;IRREGULAR
+gargle;gargariser;C1;2;ACTION;REGULAR
+garner;recueillir-amasser;B2;4;ACTION;REGULAR
+garnish;garnir-décorer;B1;3;ACTION;REGULAR
+gasp;haleter-souffler;B1;5;ACTION;REGULAR
+gather;rassembler-collecter;A2;8;ACTION;REGULAR
+gauge;évaluer-mesurer;B2;6;ACTION;REGULAR
+gawk;regarder bêtement;C1;2;ACTION;REGULAR
+gaze;regarder fixement-contempler;B1;6;ACTION;REGULAR
+generalize;généraliser;B2;5;ACTION;REGULAR
+generate;générer-produire;B1;7;ACTION;REGULAR
+gesticulate;gesticuler;C1;3;ACTION;REGULAR
+get;obtenir-recevoir;A1;10;ACTION;IRREGULAR
+give;donner-offrir;A1;10;ACTION;IRREGULAR
+glare;regarder méchamment;B2;4;ACTION;REGULAR
+gleam;briller-luire;B2;4;STATE;REGULAR
+glide;glisser-flotter;B1;5;ACTION;REGULAR
+glimpse;apercevoir-entrevoir;B2;6;ACTION;REGULAR
+gloat;se réjouir-se vanter;C1;2;ACTION;REGULAR
+glorify;glorifier;C1;3;ACTION;REGULAR
+glow;briller-rayonner;B1;5;STATE;REGULAR
+glue;coller;A2;6;ACTION;REGULAR
+gnaw;ronger-mâcher;B2;3;ACTION;REGULAR
+go;aller-partir;A1;10;ACTION;IRREGULAR
+gobble;gobber-dévorer;C1;2;ACTION;REGULAR
+gossip;gossip-bavarder;B1;6;ACTION;REGULAR
+govern;gouverner-diriger;B1;7;ACTION;REGULAR
+grab;saisir-attraper;A2;8;ACTION;REGULAR
+grace;gracier-honorer;C1;3;ACTION;REGULAR
+grade;noter-évaluer;B1;7;ACTION;REGULAR
+graduate;diplômé-graduer;B1;6;ACTION;REGULAR
+grant;accorder-concéder;B2;6;ACTION;REGULAR
+grasp;saisir-comprendre;B1;7;ACTION;REGULAR
+grate;râper-grincer;B2;4;ACTION;REGULAR
+gravitate;graviter;C1;2;ACTION;REGULAR
+greet;saluer-accueillir;A1;9;ACTION;REGULAR
+grill;griller-interroger;B1;6;ACTION;REGULAR
+grimace;grimacer;B2;4;ACTION;REGULAR
+grin;sourire-grincer;A2;7;ACTION;REGULAR
+grip;saisir-agripper;B1;6;ACTION;REGULAR
+groan;gémir-se plaindre;B2;5;ACTION;REGULAR
+groom;toiletter-préparer;B2;4;ACTION;REGULAR
+groove;groover;C2;1;ACTION;REGULAR
+grow;grandir-cultiver;A1;9;ACTION;IRREGULAR
+growl;grogner;B2;4;ACTION;REGULAR
+grumble;grogner-se plaindre;B2;5;ACTION;REGULAR
+grunt;grogner-ronchonner;C1;2;ACTION;REGULAR
+guarantee;garantir-assurer;B1;7;ACTION;REGULAR
+guard;garder-protéger;A2;8;ACTION;REGULAR
+guess;deviner-supposer;A2;8;ACTION;REGULAR
+guide;guider-conduire;A2;8;ACTION;REGULAR
+gulp;goulot-avaler;B2;4;ACTION;REGULAR
+gush;déborder-jaillir;C1;3;ACTION;REGULAR

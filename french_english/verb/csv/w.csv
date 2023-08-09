@@ -1,0 +1,50 @@
+wail;gémir - pleurer;A2;3;ACTION;REGULAR
+walk;marcher;A1;9;ACTION;REGULAR
+wallow;se vautrer - se complaire;B2;2;ACTION;REGULAR
+wander;errer - vagabonder;B1;4;ACTION;REGULAR
+want;vouloir;A1;10;STATE;IRREGULAR
+warn;avertir;A2;6;ACTION;REGULAR
+wash;laver;A1;8;ACTION;REGULAR
+waste;gaspiller;A2;5;ACTION;REGULAR
+watch;regarder;A1;9;ACTION;REGULAR
+wave;agiter - onduler;A2;5;ACTION;REGULAR
+wax;cire - cirer;C1;1;ACTION;REGULAR
+weaken;affaiblir;B2;3;ACTION;REGULAR
+wean;sevrer;C2;1;ACTION;REGULAR
+wear;porter;A1;8;ACTION;IRREGULAR
+weather;supporter - résister;B2;3;ACTION;IRREGULAR
+weave;tisser;B1;3;ACTION;IRREGULAR
+wed;épouser;B2;2;ACTION;REGULAR
+weep;pleurer;B1;4;ACTION;IRREGULAR
+weigh;peser;A2;6;ACTION;REGULAR
+welcome;accueillir;A2;7;ACTION;REGULAR
+weld;souder;C1;1;ACTION;REGULAR
+wheel;rouler;B1;4;ACTION;REGULAR
+whet;aiguiser;C2;1;ACTION;REGULAR
+whip;fouetter;B2;2;ACTION;REGULAR
+whisper;chuchoter;A2;6;ACTION;REGULAR
+whistle;siffler;A2;5;ACTION;REGULAR
+whiten;blanchir;B2;2;ACTION;REGULAR
+widen;élargir;B2;3;ACTION;REGULAR
+wilt;flétrir;C1;1;ACTION;REGULAR
+win;gagner;A1;10;ACTION;IRREGULAR
+wince;grimacer;B2;2;ACTION;REGULAR
+wind;enrouler;B1;4;ACTION;IRREGULAR
+wink;cligner;B1;4;ACTION;REGULAR
+wipe;essuyer;A2;7;ACTION;REGULAR
+wire;câbler;B2;2;ACTION;REGULAR
+wish;souhaiter;A1;8;STATE;REGULAR
+withdraw;retirer;B1;5;ACTION;IRREGULAR
+wither;se flétrir;C1;1;ACTION;REGULAR
+wobble;vaciller;B2;2;ACTION;REGULAR
+wonder;se demander;A2;7;STATE;REGULAR
+work;travailler;A1;10;ACTION;REGULAR
+worry;s'inquiéter;A2;7;STATE;REGULAR
+wrap;emballer;A2;6;ACTION;REGULAR
+wreck;détruire;B1;4;ACTION;REGULAR
+wrest;arracher;C1;1;ACTION;REGULAR
+wrestle;lutter;B2;3;ACTION;REGULAR
+wriggle;se tortiller;B2;2;ACTION;REGULAR
+write;écrire;A1;10;ACTION;IRREGULAR
+writhe;se tordre;C1;1;ACTION;REGULAR
+wrong;tromper;B1;5;ACTION;REGULAR

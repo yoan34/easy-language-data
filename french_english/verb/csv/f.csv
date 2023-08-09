@@ -1,0 +1,50 @@
+faint;évanouir-se défaillir;A2;3;STATE;REGULAR
+fall;tomber-chuter;A1;10;ACTION;IRREGULAR
+fatten;engraisser-grossir;B1;2;ACTION;REGULAR
+favor;favoriser-préférer;B2;4;ACTION;REGULAR
+fax;faxer-télécopier;C1;1;ACTION;REGULAR
+feed;nourrir-alimenter;A2;7;ACTION;IRREGULAR
+feel;sentir-ressentir;A1;10;STATE;IRREGULAR
+ferment;fermenter;C1;1;STATE;REGULAR
+fetch;aller chercher-rapporter;B1;5;ACTION;REGULAR
+fiddle;tripoter-jouer;B2;3;ACTION;REGULAR
+fight;combattre-lutter;A2;8;ACTION;IRREGULAR
+figure;figurer-imaginer;B2;6;ACTION;REGULAR
+file;classer-déposer;B2;5;ACTION;REGULAR
+fill;remplir-combler;A2;9;ACTION;REGULAR
+film;filmer;A2;6;ACTION;REGULAR
+filter;filtrer;B1;4;ACTION;REGULAR
+finalize;finaliser-terminer;C1;3;ACTION;REGULAR
+find;trouver-découvrir;A1;10;ACTION;IRREGULAR
+fire;licencier-tirer;B1;7;ACTION;REGULAR
+fish;pêcher;A2;5;ACTION;REGULAR
+fix;réparer-fixer;A2;8;ACTION;REGULAR
+flap;agiter-battre;B2;2;ACTION;REGULAR
+flash;flasher-clignoter;B2;3;ACTION;REGULAR
+flatline;stagner;C2;1;STATE;REGULAR
+flatter;flatter-complimenter;B2;4;ACTION;REGULAR
+flaunt;étaler-se vanter;C1;2;ACTION;REGULAR
+flee;fuir-s'échapper;B1;6;ACTION;IRREGULAR
+fling;jeter-lancer;B2;3;ACTION;IRREGULAR
+flip;retourner-faire sauter;B1;5;ACTION;REGULAR
+flirt;flirter-draguer;B2;4;ACTION;REGULAR
+float;flotter;A2;5;STATE;REGULAR
+flock;se rassembler-affluer;C1;2;ACTION;REGULAR
+flourish;prospérer-florir;C1;3;STATE;REGULAR
+fluctuate;fluctuer-varier;C2;2;STATE;REGULAR
+fly;voler;A1;9;ACTION;IRREGULAR
+follow;suivre;A1;10;ACTION;REGULAR
+forget;oublier;A1;10;ACTION;IRREGULAR
+forgive;pardonner-excuser;A2;7;ACTION;IRREGULAR
+foster;favoriser-encourager;C1;4;ACTION;REGULAR
+freak;paniquer;B2;3;ACTION;REGULAR
+freeze;geler-congeler;A2;6;ACTION;IRREGULAR
+fret;s'inquiéter-se tracasser;C1;2;STATE;REGULAR
+frisk;fouiller-palper;C2;1;ACTION;REGULAR
+frolic;s'ébattre-jouer;C2;1;ACTION;REGULAR
+frown;froncer les sourcils;B1;4;STATE;REGULAR
+frustrate;frustrer-décevoir;B2;5;STATE;REGULAR
+fulfill;remplir-satisfaire;B2;6;ACTION;REGULAR
+fumble;tâtonner;C1;2;ACTION;REGULAR
+furnish;meubler-fournir;B1;5;ACTION;REGULAR
+fuse;fondre-fusionner;C2;2;ACTION;REGULAR

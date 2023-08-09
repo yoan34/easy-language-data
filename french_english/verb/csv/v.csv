@@ -1,0 +1,44 @@
+vacate;quitter - vider;B2;5;ACTION;REGULAR
+vaccinate;vacciner;B2;6;ACTION;REGULAR
+vacillate;hésiter - vaciller;C1;3;STATE;REGULAR
+validate;valider;B1;7;ACTION;REGULAR
+valorize;valoriser;C1;4;ACTION;REGULAR
+value;valeur - apprécier;A2;8;STATE;REGULAR
+vamp;vamper - séduire;C2;2;ACTION;IRREGULAR
+vandalize;vandaliser;B2;4;ACTION;REGULAR
+vanish;disparaître;B1;6;STATE;IRREGULAR
+vaporize;vaporiser;C2;1;ACTION;REGULAR
+variegate;varier - diversifier;C2;2;ACTION;REGULAR
+vasectomize;vasectomiser;C2;1;ACTION;REGULAR
+vault;voûter - sauter;B2;3;ACTION;REGULAR
+veer;virer - dévier;C1;3;ACTION;REGULAR
+vegetate;végéter;C1;2;STATE;REGULAR
+veil;voiler;B2;4;ACTION;REGULAR
+veneer;plaquer - vernir;C2;2;ACTION;REGULAR
+venerate;vénérer;C1;3;STATE;REGULAR
+vent;ventiler - exprimer;B2;5;ACTION;REGULAR
+ventilate;ventiler;B2;5;ACTION;REGULAR
+verbalize;verbaliser;C1;3;ACTION;REGULAR
+verify;vérifier;A2;9;ACTION;REGULAR
+versify;versifier;C2;1;ACTION;REGULAR
+veto;veto - interdire;C1;4;ACTION;REGULAR
+vex;vexer;B2;4;ACTION;REGULAR
+vibrate;vibrer;B1;6;STATE;REGULAR
+victimize;victimiser;C1;3;ACTION;REGULAR
+victual;victuailles - nourrir;C2;2;ACTION;REGULAR
+vilify;vilipender - diffamer;C2;2;ACTION;REGULAR
+vindicate;vindiquer - justifier;C2;3;ACTION;REGULAR
+violate;violer;B2;5;ACTION;REGULAR
+visit;visiter;A1;10;ACTION;REGULAR
+visualize;visualiser;B1;7;ACTION;REGULAR
+vitalize;vitaliser - dynamiser;C2;2;ACTION;REGULAR
+vivify;vivifier;C2;1;ACTION;REGULAR
+vivisect;vivisecter;C2;1;ACTION;REGULAR
+vocalize;vocaliser;B2;5;ACTION;REGULAR
+volunteer;volontaire - proposer;A2;8;STATE;REGULAR
+vomit;vomir;B1;6;ACTION;IRREGULAR
+vouch;garantir - attester;C1;4;ACTION;REGULAR
+vouchsafe;daigner - accorder;C2;1;ACTION;REGULAR
+vow;vœu - promettre;B2;5;STATE;REGULAR
+vulcanize;vulcaniser;C2;1;ACTION;REGULAR
+vulgarize;vulgariser;C1;3;ACTION;REGULAR

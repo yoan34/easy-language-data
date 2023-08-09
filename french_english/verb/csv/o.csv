@@ -1,0 +1,50 @@
+oblige;obliger - contraindre;B1;6;ACTION;REGULAR
+observe;observer - regarder;A2;7;ACTION;REGULAR
+obtain;obtenir - acquérir;B1;7;ACTION;IRREGULAR
+occupy;occuper - habiter;A2;7;ACTION;REGULAR
+offer;offrir - proposer;A2;8;ACTION;IRREGULAR
+omit;omettre - négliger;B2;4;ACTION;REGULAR
+operate;opérer - fonctionner;B1;6;ACTION;REGULAR
+organize;organiser - ranger;A2;8;ACTION;REGULAR
+overact;surjouer - exagérer;C1;2;ACTION;REGULAR
+overcome;surmonter - vaincre;B2;5;ACTION;IRREGULAR
+overcook;surcuire - trop cuire;B2;3;ACTION;REGULAR
+overdo;exagérer - abuser;B2;4;ACTION;REGULAR
+overemphasize;surglorifier - exagérer;C1;2;ACTION;REGULAR
+overestimate;surestimer - exagérer;B2;4;ACTION;REGULAR
+overexpose;surexposer - exposer trop;C1;2;ACTION;REGULAR
+overextend;surétendre - étirer trop;C1;2;ACTION;REGULAR
+overhang;surcharger - pendre au-dessus;C1;2;STATE;IRREGULAR
+overhear;surprendre - entendre par hasard;B2;4;ACTION;IRREGULAR
+overindulge;se gaver - abuser;C1;2;ACTION;REGULAR
+overkill;exagérer - trop faire;C1;2;ACTION;REGULAR
+overlap;chevaucher - recouvrir;B2;4;STATE;REGULAR
+overlie;recouvrir - couvrir;C1;2;STATE;IRREGULAR
+overload;surcharger - trop charger;B2;4;ACTION;REGULAR
+overlook;ignorer - négliger;B1;6;ACTION;REGULAR
+overpay;surpayer - trop payer;B2;4;ACTION;REGULAR
+overplay;surjouer - exagérer;C1;2;ACTION;REGULAR
+overpower;dominer - surpasser;B2;4;ACTION;REGULAR
+overproduce;surproduire - trop produire;C1;2;ACTION;REGULAR
+overprotect;surprotéger - protéger trop;B2;4;ACTION;REGULAR
+overrate;surévaluer - trop estimer;B2;4;ACTION;REGULAR
+overreach;dépasser - aller trop loin;C1;2;ACTION;REGULAR
+overreact;sur-réagir - exagérer;B2;4;ACTION;REGULAR
+overrule;annuler - invalider;C1;2;ACTION;REGULAR
+overrun;envahir - déborder;B2;4;ACTION;IRREGULAR
+oversee;superviser - surveiller;B1;6;ACTION;REGULAR
+oversell;survendre - trop vendre;C1;2;ACTION;REGULAR
+overshadow;éclipser - dominer;B2;4;ACTION;REGULAR
+overshoot;dépasser - aller au-delà;C1;2;ACTION;REGULAR
+oversimplify;simplifier à l'extrême - réduire;C1;2;ACTION;REGULAR
+oversleep;dormir trop longtemps - trop dormir;B1;6;ACTION;REGULAR
+overspend;dépenser trop - trop dépenser;B2;4;ACTION;REGULAR
+overstate;exagérer - trop dire;B2;4;ACTION;REGULAR
+overstep;dépasser - franchir;B2;4;ACTION;REGULAR
+overtake;dépasser - surpasser;B1;6;ACTION;IRREGULAR
+overthink;sur-analyser - trop penser;B2;4;ACTION;REGULAR
+overthrow;renverser - détrôner;B2;4;ACTION;IRREGULAR
+overuse;surutiliser - trop utiliser;B2;4;ACTION;REGULAR
+overvalue;surévaluer - trop estimer;B2;4;ACTION;REGULAR
+overwhelm;submerger - accabler;B2;5;ACTION;REGULAR
+overwork;surmener - trop travailler;B2;4;ACTION;REGULAR

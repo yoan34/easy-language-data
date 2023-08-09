@@ -1,0 +1,49 @@
+calculate;calculer-compter;B2;6;ACTION;REGULAR
+calibrate;étalonner-calibrer;C1;3;ACTION;REGULAR
+call;appeler-nommer;A1;9;ACTION;IRREGULAR
+campaign;mener une campagne-campagne;B2;5;ACTION;REGULAR
+carry;porter-transporter;A2;7;ACTION;REGULAR
+catch;attraper-capturer;A2;6;ACTION;IRREGULAR
+cause;causer-provoquer;B1;7;ACTION;REGULAR
+change;changer-modifier;A1;8;ACTION;REGULAR
+charge;charger-facturer;B1;6;ACTION;REGULAR
+check;vérifier-contrôler;A2;8;ACTION;REGULAR
+choose;choisir-sélectionner;A1;8;ACTION;IRREGULAR
+claim;réclamer-affirmer;B2;5;ACTION;REGULAR
+clean;nettoyer-laver;A1;7;ACTION;REGULAR
+clear;effacer-clarifier;B1;6;ACTION;REGULAR
+climb;grimper-escalader;A2;5;ACTION;IRREGULAR
+close;fermer-clôturer;A1;8;ACTION;REGULAR
+collect;collecter-rassembler;A2;6;ACTION;REGULAR
+come;venir-arriver;A1;10;ACTION;IRREGULAR
+commit;commettre-s'engager;B2;4;ACTION;IRREGULAR
+communicate;communiquer-transmettre;A2;7;ACTION;REGULAR
+compare;comparer-contraster;B1;6;ACTION;REGULAR
+compete;concourir-compétition;B2;5;ACTION;IRREGULAR
+complain;se plaindre-râler;B1;6;ACTION;REGULAR
+complete;compléter-terminer;A2;7;ACTION;REGULAR
+concentrate;se concentrer-focaliser;B1;6;STATE;REGULAR
+concern;concerner-inquiéter;B2;5;STATE;REGULAR
+confirm;confirmer-valider;A2;7;ACTION;REGULAR
+connect;connecter-relier;A2;7;ACTION;REGULAR
+consider;considérer-penser;B1;6;STATE;REGULAR
+consist;consister-comprendre;B2;5;STATE;REGULAR
+contain;contenir-inclure;B1;6;STATE;REGULAR
+continue;continuer-poursuivre;A2;8;ACTION;REGULAR
+control;contrôler-maîtriser;A2;7;ACTION;REGULAR
+cook;cuisiner-préparer;A1;8;ACTION;REGULAR
+copy;copier-dupliquer;A1;7;ACTION;REGULAR
+correct;corriger-rectifier;A2;7;ACTION;REGULAR
+cost;coûter-valoir;A2;7;STATE;IRREGULAR
+count;compter-calculer;A1;8;ACTION;REGULAR
+cover;couvrir-recouvrir;A2;6;ACTION;REGULAR
+create;créer-inventer;A2;7;ACTION;REGULAR
+cross;traverser-croiser;A2;6;ACTION;REGULAR
+crush;écraser-broyer;B2;4;ACTION;REGULAR
+cry;pleurer-crier;A1;7;ACTION;REGULAR
+cure;guérir-soigner;B1;5;ACTION;REGULAR
+curse;maudire-jurer;C1;3;ACTION;IRREGULAR
+curve;courber-incurver;C1;3;ACTION;REGULAR
+customize;personnaliser-customiser;B2;5;ACTION;REGULAR
+cut;couper-trancher;A1;8;ACTION;IRREGULAR
+cycle;faire du vélo-cycler;A2;6;ACTION;REGULAR

@@ -1,0 +1,50 @@
+paddle;pagayer - ramer;A2;3;ACTION;REGULAR
+paint;peindre;A2;6;ACTION;IRREGULAR
+pamper;dorloter - chouchouter;B1;2;ACTION;REGULAR
+parade;défiler;A2;4;ACTION;REGULAR
+park;garer;A1;7;ACTION;REGULAR
+participate;participer;A2;8;ACTION;REGULAR
+pass;passer;A1;10;ACTION;IRREGULAR
+pat;tapoter - caresser;B1;3;ACTION;REGULAR
+pause;faire une pause;A2;6;ACTION;REGULAR
+pay;payer;A1;9;ACTION;IRREGULAR
+peel;éplucher;A2;5;ACTION;REGULAR
+pen;écrire;A1;8;ACTION;REGULAR
+perceive;percevoir;B2;4;STATE;IRREGULAR
+perform;effectuer - réaliser;B1;7;ACTION;REGULAR
+permit;permettre;B1;6;STATE;IRREGULAR
+persuade;persuader;B2;5;ACTION;REGULAR
+phone;appeler;A1;9;ACTION;REGULAR
+pick;choisir;A2;8;ACTION;REGULAR
+pierce;percer;B2;3;ACTION;REGULAR
+pinch;pincer;B1;4;ACTION;REGULAR
+pitch;lancer;B2;5;ACTION;REGULAR
+play;jouer;A1;10;ACTION;REGULAR
+plunge;plonger;B1;4;ACTION;REGULAR
+poke;pousser - piquer;B2;2;ACTION;REGULAR
+polish;polir;B2;3;ACTION;REGULAR
+ponder;réfléchir;C1;4;STATE;REGULAR
+pop;éclater;B2;3;ACTION;REGULAR
+pose;poser;B1;6;STATE;REGULAR
+post;poster;A2;7;ACTION;REGULAR
+pour;verser;A2;5;ACTION;REGULAR
+praise;louer;B2;4;ACTION;REGULAR
+pray;prier;A2;5;ACTION;REGULAR
+preach;prêcher;C1;2;ACTION;REGULAR
+predict;prédire;B2;5;STATE;IRREGULAR
+prepare;préparer;A1;9;ACTION;REGULAR
+present;présenter;A2;8;ACTION;REGULAR
+preserve;préserver;B2;4;ACTION;REGULAR
+press;presser;A2;6;ACTION;REGULAR
+pretend;prétendre;B1;7;STATE;REGULAR
+prevent;empêcher;B2;6;ACTION;REGULAR
+prick;piquer;B2;3;ACTION;REGULAR
+print;imprimer;A2;7;ACTION;REGULAR
+proceed;procéder;B2;5;ACTION;REGULAR
+proclaim;proclamer;C1;3;ACTION;REGULAR
+protest;protester;B1;6;ACTION;REGULAR
+provide;fournir;B1;8;ACTION;REGULAR
+pull;tirer;A1;8;ACTION;REGULAR
+purchase;acheter;A2;9;ACTION;REGULAR
+pursue;poursuivre;B2;5;ACTION;REGULAR
+push;pousser;A1;8;ACTION;REGULAR

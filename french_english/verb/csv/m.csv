@@ -1,0 +1,49 @@
+magnify;agrandir - magnifier;B2;6;ACTION;REGULAR
+maintain;maintenir;B1;7;STATE;IRREGULAR
+make;faire - fabriquer;A1;10;ACTION;IRREGULAR
+manage;gérer - manager;B1;8;ACTION;REGULAR
+mark;marquer;A2;7;ACTION;REGULAR
+marry;marier - épouser;A2;6;ACTION;REGULAR
+master;maîtriser;B2;7;ACTION;REGULAR
+match;correspondre - apparier;B1;6;STATE;REGULAR
+materialize;matérialiser;C1;3;ACTION;REGULAR
+maximize;maximiser;C1;4;ACTION;REGULAR
+measure;mesurer;A2;8;ACTION;REGULAR
+meddle;interférer - se mêler;C1;2;ACTION;IRREGULAR
+meditate;méditer;B2;5;STATE;REGULAR
+meet;rencontrer;A1;10;ACTION;IRREGULAR
+melt;fondre;B1;5;ACTION;IRREGULAR
+memorize;mémoriser;A2;7;ACTION;REGULAR
+mend;réparer;B1;5;ACTION;REGULAR
+mention;mentionner;B1;8;ACTION;REGULAR
+merge;fusionner;B2;6;ACTION;REGULAR
+migrate;migrer;C1;3;ACTION;REGULAR
+mimic;imiter;B2;5;ACTION;REGULAR
+mind;se soucier - faire attention;B2;6;STATE;REGULAR
+minimize;minimiser;B2;6;ACTION;REGULAR
+mirror;refléter;C1;4;STATE;REGULAR
+miss;manquer - rater;A2;8;ACTION;REGULAR
+mix;mélanger;A2;7;ACTION;REGULAR
+moan;gémir;B2;4;STATE;REGULAR
+mobilize;mobiliser;B2;5;ACTION;REGULAR
+mock;se moquer;B1;6;ACTION;REGULAR
+model;modéliser;B2;5;ACTION;REGULAR
+modernize;moderniser;B2;5;ACTION;REGULAR
+modify;modifier;B1;7;ACTION;REGULAR
+mold;modeler - mouler;B2;5;ACTION;REGULAR
+monitor;surveiller;B1;7;ACTION;REGULAR
+mop;passer la serpillière;B2;4;ACTION;REGULAR
+motivate;motiver;B2;6;ACTION;REGULAR
+mourn;pleurer - deuil;B2;4;STATE;REGULAR
+move;bouger - déménager;A1;10;ACTION;REGULAR
+muffle;étouffer;C1;3;ACTION;REGULAR
+multiply;multiplier;B1;6;ACTION;REGULAR
+mumble;murmurer;B2;4;STATE;REGULAR
+munch;mâcher;B2;4;ACTION;REGULAR
+murmur;murmurer;B2;4;STATE;REGULAR
+muse;méditer - rêver;C1;3;STATE;REGULAR
+muster;rassembler;C1;3;ACTION;REGULAR
+mutate;muter;C2;2;ACTION;REGULAR
+mutilate;mutiler;C2;1;ACTION;REGULAR
+mutter;murmurer - marmonner;B2;4;STATE;REGULAR
+mystify;mystifier;C2;2;ACTION;REGULAR

@@ -1,0 +1,44 @@
+nag;gronder-réprimander;A2;3;ACTION;REGULAR
+nail;clouer-nageler;B1;4;ACTION;REGULAR
+name;nommer-désigner;A1;9;ACTION;REGULAR
+nap;dormir-sieste;A2;4;ACTION;REGULAR
+nark;agacer-énerver;B2;2;ACTION;REGULAR
+narrate;raconter-narrer;B1;6;ACTION;REGULAR
+narrativize;narrativiser;C2;1;ACTION;REGULAR
+natter;bavarder-jaser;C1;2;ACTION;REGULAR
+naturalize;naturaliser;B2;3;ACTION;REGULAR
+navigate;naviguer-piloter;B1;5;ACTION;REGULAR
+necessitate;nécessiter-exiger;C1;3;ACTION;REGULAR
+need;avoir besoin-nécessiter;A1;10;STATE;REGULAR
+negate;nier-contrer;B2;4;ACTION;REGULAR
+neglect;négliger-ignorer;B1;6;STATE;REGULAR
+negotiate;négocier-discuter;B1;7;ACTION;REGULAR
+nest;nicher-nidifier;C2;1;ACTION;REGULAR
+nestle;se blottir-se nicher;B2;3;ACTION;REGULAR
+net;nettoyer-épurer;B1;5;ACTION;REGULAR
+network;réseauter-connecter;B2;6;ACTION;REGULAR
+neutralize;neutraliser-annuler;B2;4;ACTION;REGULAR
+nibble;grignoter-mordiller;B1;5;ACTION;REGULAR
+nick;entailler-ébrécher;C2;1;ACTION;REGULAR
+nickname;surnommer-désigner;B1;5;ACTION;REGULAR
+nix;annuler-rejeter;C1;2;ACTION;REGULAR
+nobble;saboter-truquer;C2;1;ACTION;IRREGULAR
+nod;acquiescer-hocher;A2;6;ACTION;REGULAR
+nominate;nommer-désigner;B1;6;ACTION;REGULAR
+nonplus;déconcerter-perplexer;C2;1;STATE;REGULAR
+normalize;normaliser-standardiser;B2;5;ACTION;REGULAR
+nosh;grignoter-manger;C1;2;ACTION;REGULAR
+notarize;notarier-certifier;C2;1;ACTION;REGULAR
+notch;entailler-marquer;B2;3;ACTION;REGULAR
+note;noter-remarquer;A2;8;ACTION;REGULAR
+notice;remarquer-observer;A2;7;STATE;REGULAR
+novelise;romancer-romantiser;C2;1;ACTION;REGULAR
+novelize;romancer-romantiser;C2;1;ACTION;REGULAR
+nucleate;nucleer;C2;1;ACTION;REGULAR
+nudge;pousser-inciter;B1;5;ACTION;REGULAR
+null;annuler-invalider;C1;2;ACTION;REGULAR
+nullify;annuler-invalider;B2;3;ACTION;REGULAR
+numb;engourdir-anesthésier;B2;4;ACTION;REGULAR
+nurse;soigner-infirmier;A2;7;ACTION;REGULAR
+nurture;nourrir-éduquer;B1;6;STATE;REGULAR
+nuzzle;se blottir-frotter;C1;2;ACTION;REGULAR
